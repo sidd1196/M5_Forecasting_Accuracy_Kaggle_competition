@@ -19,5 +19,9 @@ will pose this as a supervised machine learning regression problem. In this prob
 using LGBMRegressor and XGBoost regressor models.
 
 
+## .ipynb Notebooks :-
+
+1. - In notebook we will perform data analysis and data visualization to get some insights from the data.
 
 
+2. - In this notebook we will do data preprocessing , feature engineering and then we will use different ML models and different techniques for predicting the sales for validation and test dataset.
