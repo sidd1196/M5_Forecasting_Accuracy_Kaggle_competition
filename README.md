@@ -21,7 +21,7 @@ using LGBMRegressor and XGBoost regressor models.
 
 ## .ipynb Notebooks :-
 
-1. - In notebook I have performed data analysis and data visualization to get some insights from the data.
+1. M5_forecasting_Accuray_EDA_3.ipynb - In notebook I have performed data analysis and data visualization to get some insights from the data.
 
 
-2. - In this notebook I have done data preprocessing , feature engineering and then I used different ML models and different techniques for predicting the sales for validation and test dataset.
+2. M5_Forecasting_Accuracy_Data_Preprocessing_and_Modelling_Final_2.ipynb - In this notebook I have done data preprocessing , feature engineering and then I used different ML models and different techniques for predicting the sales for validation and test dataset.
