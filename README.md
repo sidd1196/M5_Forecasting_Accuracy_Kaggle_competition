@@ -24,4 +24,4 @@ using LGBMRegressor and XGBoost regressor models.
 1. - In notebook I have performed data analysis and data visualization to get some insights from the data.
 
 
-2. - In this notebook I have done data preprocessing , feature engineering and then we will use different ML models and different techniques for predicting the sales for validation and test dataset.
+2. - In this notebook I have done data preprocessing , feature engineering and then I used different ML models and different techniques for predicting the sales for validation and test dataset.
