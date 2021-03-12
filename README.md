@@ -26,7 +26,7 @@ using LGBMRegressor and XGBoost regressor models.
 
 
 2. M5_Forecasting_Accuracy_Data_Preprocessing_and_Modelling_Final_2.ipynb - In this notebook I have done data preprocessing , feature engineering and then I used different ML models and different techniques for predicting the sales for validation and test dataset.
- *notebook - https://nbviewer.jupyter.org/github/sidd1196/M5_Forecasting_Accuracy_Kaggle_competition/blob/main/M5_Forecasting_Accuracy_Data_Preprocessing_and_Modelling_Final_2.ipynb
+ *notebook - https://nbviewer.jupyter.org/github/sidd1196/M5_Forecasting_Accuracy_Kaggle_competition/blob/main/M5_Forecasting_Accuracy_Data_Preprocessing_and_Modelling_Final_3.ipynb
 
 
 *noteboook - if you are not able to open the .ipynb file click on the link provided.
